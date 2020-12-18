@@ -1,0 +1,13 @@
+08:01,The Shadows,Wizards
+08:02,The Shadows,Wizards
+08:03,The Shadows,Wizards
+08:03,The Shadows,Wizards
+08:03,The Shadows,Industrialists
+08:05,The Shadows,Industrialists
+08:08,The Shadows,Industrialists
+08:09,The Shadows,Industrialists
+09:01,The Shadows,Guards
+20:01,The Shadows,Guards
+21:01,The Shadows,Guards
+22:01,The Shadows,Guards
+23:01,The Shadows,Guards
